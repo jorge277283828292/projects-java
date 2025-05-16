@@ -1,7 +1,7 @@
 //Solicita al usuario que ingrese 10 numeros enteros, y devuelve sin son positivos, negativos o sin son ceros.
 import java.util.Scanner;
 
-public class Positivos {
+public class positivos {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
         int[]a=new int[10];

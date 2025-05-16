@@ -2,7 +2,7 @@
 //ademas de que si se cumple cierto criterio se le dara un descuento.
 import java.util.Scanner;
 
-public class Total_A_Pagar {
+public class total_a_pagar {
     public static void main(String[] args) {
         int CantPiezas;
         double TotalPago;

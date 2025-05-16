@@ -1,7 +1,7 @@
 //Pide un numero de 8 digitos y devuelve las primeras 4 posiciones.
 import java.util.Scanner;
 
-public class Main {
+public class main {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int[]digitos=new int[8];

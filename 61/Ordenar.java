@@ -1,7 +1,7 @@
 //Solicita el tamaño del array y luego los valores, para al final terminar imprimiendolo.
 import java.util.Scanner;
 
-public class Ordenar {
+public class ordenar {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             int tamano;

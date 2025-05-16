@@ -1,5 +1,5 @@
 //Elimina los numeros repetidos del la lista.
-public class Repetidos {
+public class repetidos {
     public static void main(String[] args) {
         char[] a={'1','2','3','4','5','6','7','1','1','1'};
 

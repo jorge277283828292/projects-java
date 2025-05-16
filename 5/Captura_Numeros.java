@@ -2,7 +2,7 @@
 //dado el caso de que el usuario ingreso 0 para romper el bucle.
 import java.util.Scanner;
 
-public class Captura_Numeros {
+public class captura_numeros {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             int num=0, suma=0, cantidadNumeros=0;

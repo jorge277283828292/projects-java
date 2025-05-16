@@ -1,7 +1,7 @@
 //Genera una matriz con numeros ingresados por el usuario.
 import java.util.Scanner;
 
-public class Matriz {
+public class matriz {
     public static void main(String[] args) {
         int matriz[][] = new int[3][3];
         try (Scanner s = new Scanner(System.in)) {

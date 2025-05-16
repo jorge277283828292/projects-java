@@ -2,7 +2,7 @@
 //Reprobados, y el porcentaje de reprobados.
 import java.util.Scanner;
 
-public class Calificaciones {
+public class calificaciones {
 
     public static void ingresaCalificaciones(int[] calif) {
         try (Scanner sc = new Scanner(System.in)) {
@@ -46,9 +46,9 @@ public class Calificaciones {
 
     public static void main(String[] args) {
         int[] calif = new int[10];
-        Calificaciones.ingresaCalificaciones(calif);
-        Calificaciones.calcularPromedio(calif);
-        Calificaciones.AproReb(calif);
-        Calificaciones.porcentajeReprobados(calif);
+        calificaciones.ingresaCalificaciones(calif);
+        calificaciones.calcularPromedio(calif);
+        calificaciones.AproReb(calif);
+        calificaciones.porcentajeReprobados(calif);
     }
 }

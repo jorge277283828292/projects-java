@@ -2,7 +2,7 @@
 //o ya si es el caso si todos los numeros son iguales.
 import java.util.Scanner;
 
-public class Multiplo {
+public class multiplo {
     public static void main(String[] args) {
         int[] a; 
         Scanner s = new Scanner(System.in);

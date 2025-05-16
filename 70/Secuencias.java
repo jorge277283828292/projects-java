@@ -1,7 +1,7 @@
 //Pide un numero N y luego crea una secuencia del mismo tamaño en que los numeros sean la suma de los 2 anteriores.
 import java.util.Scanner;
 
-public class Secuencias {
+public class secuencias {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             System.out.println("Captura el valor de N: ");

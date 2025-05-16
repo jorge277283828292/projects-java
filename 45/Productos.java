@@ -1,7 +1,7 @@
 //Da un descuento dependiendo de la cantidad de productos vendidos por el usuario.
 import javax.swing.JOptionPane;
 
-public class Productos {
+public class productos {
     public static void main(String[] args) {
         String nombreProyecto=JOptionPane.showInputDialog("Ingrese el numero del proyecto: ");
         double precio=Double.parseDouble(JOptionPane.showInputDialog("Ingrese el precio del producto: "));

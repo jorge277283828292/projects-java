@@ -2,8 +2,7 @@
 //Suma, Media, Mayor y Menor. De los numeros ingresados.
 import java.util.Scanner;
 
-public class Numeros {
-
+public class numeros {
     public int devuelveSuma(int arr[]) { //Suma
     int suma=0;
     for(int i=0;i<arr.length;i++) {
@@ -37,7 +36,7 @@ public class Numeros {
         for(int i=0;i<cantidadNumeros;i++) {
             arr[i]=s.nextInt();
         }
-        Numeros n1=new Numeros();
+        numeros n1=new numeros();
         int sum=n1.devuelveSuma(arr);
         System.out.println("La suma es: " + sum);
         double media=n1.devuleveMedia(sum, arr);

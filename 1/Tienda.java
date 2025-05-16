@@ -3,7 +3,7 @@
 //pero n este caso lo estas solicitando con 2000.
 import java.util.Scanner;
 
-public class Tienda {
+public class tienda {
     public static void main(String[] args) {
         double ventas[] = new double[30];
         try (Scanner scanner = new Scanner(System.in)) {

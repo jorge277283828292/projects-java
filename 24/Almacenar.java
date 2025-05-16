@@ -1,5 +1,5 @@
 //Imprime una matriz pero aumentando 5+ el valor en cada numero.
-public class Almacenar {
+public class almacenar {
     public static void main(String[] args) {
         int matriz[] []=new int [3] [3];
         int serie=0;

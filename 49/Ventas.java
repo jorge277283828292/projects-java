@@ -1,7 +1,7 @@
 //Pide el nombre del vendedor, la computadoras vendidas, y las ventas a fin de mes, y con ello calcula el sueldo.
 import java.util.Scanner;
 
-public class Ventas {
+public class ventas {
     public static void main(String[] args) {
         int computadorasVendidas=0;
         double totalVentas=0,sueldoTotal=0;

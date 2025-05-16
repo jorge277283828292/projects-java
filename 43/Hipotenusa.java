@@ -1,7 +1,7 @@
 //Da el valor de la hipotenusa, de acuerdo a los catetos ingresados.
 import java.util.Scanner;
 
-public class Hipotenusa {
+public class hipotenusa {
     public static void main(String[] args) {
         double cateto1, cateto2;
         Scanner sc=new Scanner(System.in);

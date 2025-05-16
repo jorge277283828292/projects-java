@@ -1,7 +1,7 @@
 //Da el promedio de un estudiante deacuerdo a su notas en los ultimos 10 examenes.
 import java.util.Scanner;
 
-public class Calificaciones {
+public class calificaciones {
 
     public static void ingresaCalificaciones(int[] calificacion) {
         try (Scanner sc = new Scanner(System.in)) {
@@ -22,7 +22,7 @@ public class Calificaciones {
 
     public static void main(String[] args) {
         int[] calificacion = new int[10]; 
-        Calificaciones.ingresaCalificaciones(calificacion); 
-        Calificaciones.calcularPromedio(calificacion);
+        calificaciones.ingresaCalificaciones(calificacion); 
+        calificaciones.calcularPromedio(calificacion);
     }
 }

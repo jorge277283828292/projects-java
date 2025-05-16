@@ -1,7 +1,7 @@
 //Solo se permite ingresar letras.
 import java.util.Scanner;
 
-public class Principal {
+public class principal {
     public static void main(String[] args) {
         String cadena = "";
         int valorASCII = 0;

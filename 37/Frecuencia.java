@@ -1,5 +1,5 @@
 //Da la cantidad de caracteres de String.
-public class Frecuencia {
+public class frecuencia {
     public static int contarCaracteres(String cadenaTexto, char Caracter) {
         int posicion=0;
         int contador=0;

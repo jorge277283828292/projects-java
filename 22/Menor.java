@@ -1,5 +1,5 @@
 //Se genera un array con numeros aleatorios y te dice cual es el menor de esos.
-public class Menor {
+public class menor {
     public static void main(String[] args) {
         int m;
         int t[] = new int[6];

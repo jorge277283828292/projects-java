@@ -1,7 +1,7 @@
 //Da el total de compra de compra y el importe entregado.
-public class Main {
+public class main {
     public static void main(String[] args) {
-        Compras compra1=new Compras();
+        compras compra1=new compras();
         compra1.comprasTienda(4500, 2000);
     }
 }

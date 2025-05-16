@@ -1,6 +1,6 @@
 //Pide un numero secreto y tienes 3 intentos de adivinar.
 import javax.swing.JOptionPane;
-public class Main {
+public class main {
     public static void main(String[] args) {
         int cont = 0;
         String numsecreto = "", num = "";

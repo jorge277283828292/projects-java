@@ -1,7 +1,7 @@
 //Solicita la edad de 5 estudiantes y les consulta si tienen hermanos y si, y si cumplen cierto criterio se les aplicara un descuento.
 import java.util.Scanner;
 
-public class Descuento {
+public class descuento {
     public static void main(String[] args) {
         double costoInscripcion=1250;
         int edadAlumnos[] = new int[5];
